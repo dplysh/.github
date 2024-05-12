@@ -1,4 +1,4 @@
-![dply.sh](https://i.imgur.com/dyGVAca.jpeg "dply.sh")
+![dply.sh](https://i.imgur.com/O0zq183.jpeg "dply.sh")
 
 At dply.sh, we're passionate about simplifying deployment. Say goodbye to the complexities of server management and application deployment headaches. With our deployment-as-a-service solution, you can effortlessly connect to any hosting provider and manage your servers and applications seamlessly through our intuitive platform.
 
